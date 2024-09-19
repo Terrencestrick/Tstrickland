@@ -1,7 +1,8 @@
 # Site
 repository: Tstrickland
-favicon: images/favicon.ico
+# favicon: images/favicon.ico
 
+# Content configuration version
 version: 2
 
 # Personal info
@@ -25,8 +26,8 @@ linkedin_username: https://www.linkedin.com/in/terrencestrick777/
 
 # About Section
 # about_title: About Me
-about_profile_image: IMG_2221.jpeg
-about_content: |
+about_profile_image: Untitled design.png
+about_content: | # This will include new lines to allow paragraphs
   Hi, my name is Terrence Strickland, I'm a high-functioning Senior Customer Success Manager with over 8 years of experience, I specialize in driving strategic success and growth for a range of clients of all sizes. Whether I am partnering with large enterprise customers looking to test different markets or scale their current products, ultimately becoming the sole focus of my book of business. Or, if I have several customers in my book all at different stages of the customer life cycle.    
   Mastering the ability to take intense ownership of my book coupled with proactive communication allows me to keep a pulse on the health of my partnerships while continuing to look to provide value at all times to my customers. 
   
@@ -53,7 +54,7 @@ about_content: |
 
 content:
   - title: Projects # Title for the section
-    layout: list
+    layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
         border: weak
