@@ -1,116 +1,281 @@
 # Site
-repository: sproogen/resume-theme
+repository: Tstrickland/Professional Portfolio
 favicon: images/favicon.ico
 
-# Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Terrence Strickland
+title: SaaS Growth Specialist and Strategic Leader
+email: Terrence.strickland11@gmail.com
 
-# Dark Mode (true/false/never)
-darkmode: false
+Dark Mode (true/false/never)
+darkmode: true
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+twitter_username: Terrencestrick
+github_username:  Terrencestrick
+# dribbble_username:
+facebook_username: Terrence Strickland
+# flickr_username:
+instagram_username: Supernatural_Frequency_
+linkedin_username: https://www.linkedin.com/in/terrencestrick777/ 
+# pinterest_username:
+# youtube_username:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+about_profile_image: IMG_2221.jpeg
+about_content: |
+  Hi, my name is Terrence Strickland, I'm a high-functioning Senior Customer Success Manager with over 8 years of experience, I specialize in driving strategic success and growth for a range of clients of all sizes. Whether I am partnering with large enterprise customers looking to test different markets or scale their current products, ultimately becoming the sole focus of my book of business. Or, if I have several customers in my book all at different stages of the customer life cycle.    
+  Mastering the ability to take intense ownership of my book coupled with proactive communication allows me to keep a pulse on the health of my partnerships while continuing to look to provide value at all times to my customers. 
+  
+  At Blueocean, I have shown the flexibility to partner with corporations like the NFL, particularly AMB Sports & Entertainment. Conducting demos, building presentations, and leading conversations with their partners that led to a $25 million deal for AMB Sports after white-labeling our platform and agreeing to a 24-month deal with Blueocean valued at $2.5 million ARR and also allowing our sales team access to their network.
+  At Captiv8, I consistently maintained above 85% quarterly renewal rate, bringing in over $2 million in renewed business over the time I spent there. Doing so while averaging around 100 customers ranging from enterprise retail e-commerce customers like ZARA to mid-market customers like Qualtrics. By proactively building relationships, I was consistently able to drive value and data-driven commitments through tailored digital marketing solutions that met my customer's specific needs. 
+  I thrive on building long-term, high-touch relationships, optimizing customer engagement, and ensuring the seamless adoption of SaaS platforms to meet and exceed client goals. With a proven track record of working with enterprise customers like GitHub, Dropbox, and Bloomingdale’s, I excel in aligning marketing strategies with business objectives to maximize product utilization and customer retention. 
+  
+  I bring a deep understanding of email, SMS, and data-driven marketing, combined with a strong ability to collaborate cross-functionally with Sales, Product, and Engineering teams to improve customer outcomes. 
+  Known for my analytical mindset, I leverage data insights to identify opportunities, present impactful recommendations, and foster scalable solutions that deliver measurable success. My passion for helping customers become internal champions, coupled with my ability to manage complex accounts and provide strategic value, makes me an asset in any customer-centric role. 
+  
+  I am excited to continue building meaningful partnerships that drive performance and growth. This an amazing time for me, as I have the opportunity to self-reflect on my skill set and identify opportunities to continue to cultivate my growth mindset.    
+  The things that I currently have the most experience working with are:
+  <mark>Hubspot</mark>,
+  <mark>Salesforce &amp; Gainsight</mark>,
+  <mark>Brand Marketing</mark>,
+  <mark>Digital Marketing</mark>,
+  <mark>Influencer Marketing</mark>,
+  <mark>Project Management</mark>,
+  <mark>Web-based Reporting>,
+  <mark>Onboarding</mark>,
+  <mark>Onboarding</mark> and
+  <mark>Implementation</mark>,
+  <mark>Churnzero</mark>
 
 content:
   - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: list
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
+        border: weak
+        title: Blueocean Brand Navigator Platform Orientation
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title: Blueocean Platform Orientation
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+            url: https://drive.google.com/file/d/1wzbFfN75ThZ41460zFeZ9GCqhFOsVRBQ/view?usp=sharing
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Work smarter, not harder. Efficiency is doing things right; effectiveness is doing the right things.
+        description: |
+         This project was a dream for the Blueocean team for quite a while. We wanted to stop spending so much time onboarding our customers to have the flexibility to look at our accounts from a more strategic perspective.
+         I decided to take a look at our entire onboarding and implementation process, I began working with my leadership team to analyze where we could start to trim some of the fat. Going through this process I was able to isolate our team's analytics in Gong, I saw a multitude 
+         of our customers needing extra onboarding calls due to there being so many teams whose schedules didn't permit all the required stakeholders on the call. 
+         
+         Ultimately, we were duplicating hour-long calls just to get our customers through onboarding and making sure every question gets an answer. Plus, we still wanted to free up some time during the day for the CS team to allow us to focus on more impactful work. So I volunteered
+         to put together a platform orientation video that would act as a generic catch-all for our customers and this video would sent out with the CS welcome email after the customer is handed over from sales. The results were amazing! We saw our customer base show increased adoption across
+         the board. The "pre-orientation" video gave our customers a greater understanding of Brand Navigator's functionality and allowed the CS Team more time with our customers to build strategic relationships and success plans tailored to their specific needs. This project was a huge win,
+         as we saw a 30% spike in NPS for new customers. 
+         
+         
+         
+      - layout: top-middle
+        border: weak
+        title: Custom Reports - Brand Marketing
+        additional_links:
+          - title: Custom Reports (Blueocean AI)
+            icon: fab fa-github
+            url: https://drive.google.com/drive/folders/13vHdG9xD38N1Br4c_cgmP5-iIEXLeswQ?usp=sharing
+        quote: >
+          The difference between ordinary and extraordinary is that little extra.
+        description: |
+         Here you can find some of my bread-and-butter reports I've built using customer data from Blueocean's Brand Navigator platform. Working in a start-up environment, there are times when your systems or workflows are not the best. 
+         Often, you may discover there is a deliverable needed that doesn't exist yet. In my career, I have seized those opportunities to be creative and set myself apart.
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+
+          layout: top-middle
+        border: weak
+        title: Influencer Marketing Campaign Examples & Report Templates 
+        additional_links:
+          - title: Custom Reports (Captiv8)
+            icon: fab fa-github
+            url: https://drive.google.com/drive/folders/1b9zXrXmodRIkHTOzKB9Al1c5z6SXlLgy?usp=sharing
+        quote: >
+          Nerves are the shadows cast by unpreparedness; illuminate them with knowledge.
+        description: |
+          Here are some additional projects I've built to solve team issues with staying organized doing customer marketing campaign launches. In addition to the campaign trackers, I also built templates for EBRs, Strategic alignment calls, and proper customer success plans.
+          These templates were massive in helping me assist my team on the renewal calls. 
+
+  - title: Experience
+    layout: list
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+        border: weak
+        title: BlueOcean AI                
+        sub_title: Sr. Customer Success Manager (Team Lead) 
+        caption: September 2022 - Present
+        description: |
+          My broad agency experience advising B2B tech clients was the perfect base for my role as the first customer success hire, allowing me to step into a leadership role and create the Customer Success discipline. 
+          The CS team partnered with our marketing customers as trusted advisors to accelerate platform onboarding and deepen product adoption/engagement while owning renewals and partnering on upsells. 
+          
+          As a player/coach, I focused on:
+             Strategic account management for customers such as GitHub, Dropbox, Veritas Technologies, and Bloomingdale’s
+             Creation of the customer journey, CS playbook, customer health score framework, and customer satisfaction scores
+             Implementation of our strategic channel partnership with Material+ agency
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
+         Through the great resignation and economic challenges, I trained 6 amazing team members and built an end-to-end CSM onboarding program with focused OKRs to highlight each team member’s unique skills. 
+         My remote team actively learned from mentoring and customer feedback to develop scalable operational processes. 
+
+         I led cross-functional collaboration by:
+            Sharing customer outcomes with the Go to Market team
+            Voicing feedback to the product team to improve the customer experience
+            Presenting at all hands and to our board of directors to highlight customer use cases, revenue growth (ARR/GRR), and renewal data
+
+         Collaborating with my counterparts across GTM, I developed an accurate forecasting process, and capacity planning, aligned our tech stacks, and identified critical customer education needs.
+         We implemented ChurnZero to automate and scale our efforts, giving CSMs the ability to focus on the highest priority customer interactions while giving leadership a critical metrics dashboard view of customer retention and growth.
+         My broad agency experience advising B2B tech clients was the perfect base for my role as the first customer success hire, allowing me to step into a leadership role and create the Customer Success discipline. 
+         The CS team partnered with our marketing customers as trusted advisors to accelerate platform onboarding and deepen product adoption/engagement while owning renewals and partnering on upsells. 
+
+Skills: Cross-functional Coordination · Operations Management · Customer Success · Strategic Planning · Customer Retention · Objectives and Key Results (OKRs) · Metrics Reporting · Brand Strategy · Management · Business Development · Performance Measurement
+
+
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+        border: weak
+        title: Captiv8               
+        sub_title: Sr. Customer Success Manager 
+        caption: August 2021 –  September 2022
+        description: |
+          Run the day-to-day support operations team and respond to client escalations as needed
+          Responsible for helping customers become successful with Captiv8’s offerings and empowering CS to grow into a consultative arm - ensuring engagement, retention and growth of clientele.
+          Identify and track performance KPIs for the CS function and collaborate with cross-functional leaders on how to provide seamless customer experiences from sales and onboarding to customer success.
+          Take ownership of customer issues and follow problems through to resolution
+          Develop service procedures, policies, and standards based on business needs and best practices
+          Keep ahead of industry developments and apply best practices to overall service strategies in partnership with leadership
+          Maintain accurate records and document all customer service activities and discussions
+          Work cross-functionally with Customer Success, Sales, and Enablement to deliver exceptional service and resolve open issues
+          Work directly with Product and Development to prioritize, and escalate high-priority issues for resolution while maintaining Customer Support excellence
+          Represent support to cross-functional teams and advocate for client experiences where applicable
+          Own escalation procedures and implement SLAs for tracking and responses to ensure we are exceeding targets
+          Mentor/develop CSMs and Customer Support Product Specialists and create an environment where they can flourish through feedback, encouragement, and empowerment
+          Maintain, create, and report on C8 Support KPIs and SLAs to ensure efficient and high-quality service operations
+          Forecasting/staffing analysis based on support data and team workload in partnership with Customer Support Leadership
+          Analyze customer support trend data and provide feedback on client experience
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: A Little More About Me
+
+      - layout: left
+        border: weak
+        title: True QC
+        sub_title: Sr. Customer Success Manager      
+        caption: August 2019 – August 2021
+        description: |
+          Overseen Client Success Team operations including training development of new hires.
+          Responsible for overall monthly recurring revenue, client satisfaction (NPS) & service engagement via support, training & account management.
+          Serve as a key decision-maker & spokesperson for Success Team when collaborating with internal departments & stakeholders.
+          Equip, train & staff the Success Team with the latest product & industry knowledge as well as evolving standard procedures.
+          Managed vendors (Lead Generation).
+          Worked with the delivery team to make sure all client deliveries aligned with the delivery schedule.
+          Prospect for new clients and perform demos of the platform.
+          Created POs for clients and built external materials to explain our pricing to our client's stakeholders.
+          Guide new clients through the onboarding and implementation process. (Explaining how the tool works and creating a process that fits the client’s specific needs.
+          Hit quarterly KPI (Upsells) and ARR (5% increase yearly) and also received 9 new logos from existing customers via client referrals. 
+
+          Towards the end of my time at True QC I was given the opportunity to learn a new skill. I was still responsible for my book of business, but my role also involved assisting with the company's DevOps team, this included managing
+          our <mark>AWS</mark> infrastructure as well as deploying and migrating sites. I also spent time configuring and maintaining
+          our clients' SSO, this mostly involves configuring new clients who are using <mark>AD FS</mark>, <mark>Shibboleth</mark> and
+          <mark>CAS</mark> but also maintaining our software's SSO functionality.
+
+      - layout: left
+        border: weak
+        title: Lead Forensics
+        sub_title: Customer Success Manager 
+        caption: October 2017 – August 2019
+        description: |
+          As a Customer Success Manager, I provide new-user training and set-up of client reporting requirements. I ensure regular contact with clients to ensure optimal portal performance.
+          My role provides technical support and assistance throughout the contract lifetime. Heavily involved in the negotiation and management of the client contract renewal process as well as the identification and development of new business opportunities within client base. 
+          Ensure the team achieves retention and add-on revenue targets.
+          Ensure there are sufficient resourcing levels within the team at all times.
+          Contribute to the strategy and tactics of the CSM Department and play an active role in delivering objectives.
+          Negotiating the renewal of contracts.
+          Weekly meetings with team members to ensure professional growth.
+          Work daily in a CRM database management tool.
+          Host monthly webinars to all the United States and Canadian client base.
+          Managed just over $2 million in client revenue.
+
+
+      - layout: left
+        border: weak
+        title:    Eaton Lighting Division   
+        sub_title: Project Coordinator – Channel Marketing/Social Media  
+        caption: August 2012 – October 2017  
+        description: |
+         Created annual budget, headed funding efforts, and met with community leaders and outside agencies to assist with strategic planning for upcoming campaigns.
+         Managed Eaton's online presence including web, Facebook, Twitter, Instagram, YouTube, Yelp, and LinkedIn
+         Implemented Asana in order to efficiently boost team production, communication, and organization
+         Wrote copy for email campaigns, landing pages, social media posts and ad campaigns
+         Completed monthly reports regarding grant progress, client numbers, financial information, and regulatory compliance.
+         Demonstrates and maintains complete extensive knowledge of the organization’s entire product and service line.
+         Assisted team members with day-to-day marketing tasks and coordinated marketing projects and activities as requested.
+         Supported the in-house marketing and design team by coordinating and collating content.
+         Produced additional marketing communications, such as flyers, brochures, and exhibition-related projects.
+         Set up tracking systems for marketing campaigns and online activities.
+
+
+      - layout: left
+        title: WestRock  
+        sub_title: Product Marketing Representative 
+        caption:  January 2010 – August 2012
+        description: |
+         Manages sales relationships and profitability of new and existing assigned accounts within the United States and Canada 
+         Increases sales with special emphasis on establishing and extracting value, based on the technical competencies of packaging and partition business.
+         Manages pricing for assigned accounts
+         Develops new business both corrugated and fiber in line with sales and marketing strategies for all product lines within the geographic area of responsibility
+         Collaborates with regional production plants to ensure that customer deliveries and requirements are met in accordance with customer expectations and efficiency objectives
+         Understanding planning, shipping, warehouse management, and inventory systems
+         Demonstrates and maintains complete extensive knowledge of the organization’s entire product and service line.
+
+       - layout: left
+        title: Skills:
+        description: |
+         Customer Success: Customer Relationship Management (CRM), Onboarding & Training, Cross-functional Collaboration, Customer Retention & Renewal, Process Improvement and Implementation, Stakeholder Engagement
+         Software Skills: Google Analytics, QuickBooks, SAP, SaaS, Adobe Campaign, Microsoft Office, Photoshop, Excel, Yardi
+         Economic Concepts: Data Analysis, Accounting, Investments 
+         Marketing Concepts: Market Research, Pricing, Digital Marketing, Social Media
+         Communication/Writing: Public Speaking, Presentation, Professional Reports, Data Visualization
+
+       - layout: left
+        title: Certifications:
+        description: |
+         SuccessCOACHING - Certified Customer Success Manager (CCSM) Level 1- 4 | Certificate ID # c5059822ac649
+         CXPA - Customer Experience Professional (CXPA) Level 1-4  | Certificate ID # 000-1831
+         Growth Molecules - Customer Success Education Foundations - Level 1 completed | Certificate ID # 64652bdbb94c65d4be079271
+
+
+
+  - title: Education
+    layout: list
+    content:
+      - title: Georgia State University
+        sub_title: Bachelors – Business, Management, Marketing, and Related Support Services 
+        caption: 2015 – 2019
+
+        description: |
+          Honors: HOPE Scholarship Recipient
+                  Internship- Rothschild Capital 
+                  Georgia State Football Scholarship recipient 
+                  Saving Generations: Mentor of the Year 
+                  GSU Panthers Student Speaker 
+                  Big Brother Little Brother Leadership Award 
+                  Hands-on Atlanta DECA 
+                  Business Association of Atlanta
+
+
+  - title: When I'm Not Working
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+    content: | # This will include new lines to allow paragraphs
+      Beyond my professional endeavors, I enjoyed spending quality time with my two daughters (until I met my Wife). Now very soon, I will have 3 daughters and a Wife which of course I am looking forward to being ganged up on my 4 Women in the house.  
+      Truly, I wouldn't have it any other way though. My family has instilled in me a profound sense of responsibility and time management. My background as a three-sport athlete (football, basketball, and track) has taught me the value of teamwork, perseverance, and strategic thinking—qualities I enjoy applying in a business context as well. 
+      I have to say, I am proud of the man I've become. In my leisure time, I enjoy chess, coaching 8-10-year-old boys football in my community, spending time with my girls, and going to their track meets. We try to find 4 player Co-op video games every chance we get, we're all gamers at heart.
+      I've also recently embarked on a journey to learn how to play the guitar. (The kids are brutally honest)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+
 
 # Footer
 footer_show_references: true
